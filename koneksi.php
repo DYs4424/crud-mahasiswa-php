@@ -4,7 +4,7 @@ $host     = "sql111.infinityfree.com";
 
 $user     = "if0_43399755";
 
-$password = "beN2j3TQTCvmfQ";
+$password = "ISI_PASSWORD_DISINI";
 
 $database = "if0_43399755_data_mahasiswa1";
 
